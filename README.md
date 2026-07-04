@@ -3,7 +3,7 @@
 Streamlit dashboard for the College Portal & Reporting API Foundations task.
 
 ## Run it
-
+https://devsahil12-college-portal-placemux-app-4v2q7b.streamlit.app/
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
